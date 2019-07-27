@@ -1,0 +1,11 @@
+{
+  "ernVersion": "0.35.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#d030adc28d4e5af07e6709aa0eac2e943c0a060f"
+  ],
+  "nativeDeps": [
+    "react-native@0.59.2"
+  ],
+  "platform": "android"
+}
